@@ -1,0 +1,64 @@
+.section1{
+    height: 400px;
+    border: solid rgb(255, 0, 85);
+    border-radius: 5px;
+    box-shadow: 50px 20px 80px greenyellow;
+}
+.section2{
+    height: 400px;
+    border: solid rgb(255, 0, 85);
+    border-radius: 5px;
+    box-shadow: 50px 20px 80px greenyellow;
+}
+.section3{
+    height: 350px;
+    border: solid rgb(255, 0, 85);
+    border-radius: 5px;
+    box-shadow: 50px 20px 80px greenyellow;
+}
+span{
+    color: rgb(0, 206, 120);
+}
+.button-link{
+    text-decoration: none;
+    background-color:rgb(123, 155, 145);
+    border-radius: 5px;
+    padding: 10px 5px;
+    color: blue;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.half img{
+    width: 80%;
+}
+.half2 img{
+    width: 25%;
+}
+.half2{
+    width: 20%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.half3 img{
+    width: 100%;
+}
+.half3{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+#half4 img{
+    width: 100%;
+}
+#half4{
+    width: 10%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
